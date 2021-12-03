@@ -4,6 +4,6 @@ resource "random_string" "random" {
   override_special = "/@£$"
 }
 
-resource "random_string" "random2" {
+resource "random_string" "random3" {
   length           = 16
 }
