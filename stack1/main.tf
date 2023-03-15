@@ -1,3 +1,3 @@
 resource "random_string" "stack2" {
-  length           = 16
+  length           = 18
 }
